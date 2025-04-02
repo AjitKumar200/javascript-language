@@ -10,4 +10,4 @@
 // console.log(myarr)
 let myarr = [1,3,2,4,5,6];
 let myarr1 = [6,7,8,9,0];
-let myarr2 = 
+let myarr2 = [1,2,3,4,5]
